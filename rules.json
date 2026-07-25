@@ -1,5 +1,5 @@
 {
-  "watchlist": ["BTCUSD", "ETHUSD", "SOLUSD", "LINKUSDT", "HYPEUSDT", "AVAXUSDT", "ONDOUSDT", "TSLA", "MSTR", "NVDA", "MARA", "AMD", "ALAB", "CLSK", "SOFI" ,"HIMS". "NVTS", "NDA", "HODL", "ASST", "TTD", "SYM", "BBAI"],
+  "watchlist": ["BTCUSD", "ETHUSD", "SOLUSD", "LINKUSDT", "HYPEUSDT", "AVAXUSDT", "ONDOUSDT", "TSLA", "MSTR", "NVDA", "MARA", "AMD", "ALAB", "CLSK", "SOFI", "HIMS", "NVTS", "NDA", "HODL", "ASST", "TTD", "SYM", "BBAI"],
   "default_timeframe": "240",
 
   "bias_criteria": {
